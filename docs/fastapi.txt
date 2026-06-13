@@ -1,0 +1,11 @@
+FastAPI is a modern, fast web framework for building APIs with Python.
+It is based on standard Python type hints.
+FastAPI automatically generates docs at /docs endpoint.
+It supports async functions, dependency injection, and OAuth2.
+FastAPI supports request validation using Pydantic models.
+You can define path parameters, query parameters, and request bodies.
+FastAPI has built-in support for CORS, authentication, and middleware.
+FastAPI is one of the fastest Python frameworks available.
+It automatically generates OpenAPI documentation.
+You can use Depends() for dependency injection in FastAPI.
+FastAPI supports both synchronous and asynchronous route handlers.
